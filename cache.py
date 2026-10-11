@@ -28,14 +28,14 @@ CACHE_TTL = 90
 db_write_config = {
     'host': 'database-1.cqps4y6oihus.us-east-1.rds.amazonaws.com',
     'user': 'admin',
-    'password': 'Aman12345',
+    'password': 'paaswrod',
     'database': 'dev'
 }
 
 db_read_config = {
     'host': 'mydatabase.cqps4y6oihus.us-east-1.rds.amazonaws.com',
     'user': 'admin',
-    'password': 'Aman12345',
+    'password': 'password',
     'database': 'dev'
 }
 
